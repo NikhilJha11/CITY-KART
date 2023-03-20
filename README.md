@@ -1,3 +1,3 @@
-CITY KART  https://www.linkedin.com/in/nikhiljha1104/
+CITY KART https://city-kartstartup.netlify.app/
 
 travel website : https://travelwithnikhil.netlify.app/
